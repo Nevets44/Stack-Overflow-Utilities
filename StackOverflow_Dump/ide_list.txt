@@ -1,0 +1,30 @@
+Android Studio
+Aptana
+Atom
+Coda 2
+Code::Blocks
+DrJava
+Eclipse
+Emacs
+Eric Python
+IntelliJ
+JCreator
+JDeveloper
+Komodo
+Light Table
+Monkey Studio
+MonoDevelop
+NetBeans
+PhpStorm
+Qt Creator
+RubyMine
+SharpDevelop
+Sublime Text
+Vim
+Visual Studio
+Visual Studio Code
+Xamarin
+Xcode
+Zend Studio
+geany
+pyCharm

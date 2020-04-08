@@ -1,0 +1,40 @@
+Abap
+Ada
+C
+C#
+C++
+Cobol
+Dart
+Delphi
+Go
+Grails
+Groovy
+Haskell
+Javascript
+Java
+Julia
+Kotlin
+Lua
+Matlab
+Node.js
+Objective C
+Objective-C
+PHP
+Perl
+Python
+R
+Rails
+React
+Ruby
+Rust
+Scala
+Swift
+TypeScript
+VB.NET
+VB6
+VB Script
+VB-Script
+VBScript
+VBA
+Visual Basic
+Visual-Basic

@@ -1,0 +1,4 @@
+so_questions_popularity,Id,Score,AnswerCount,CommentCount,FavoriteCount,ViewCount
+so_answers_popularity,Id,Score,CommentCount
+so_questions_post_info,Id,Body,Tags
+so_answers_post_info,Id,Body
